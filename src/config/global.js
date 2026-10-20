@@ -553,24 +553,19 @@ export default {
             'Profesional 06 - Responsable Ecosistema Virtual de Recursos Educativos Digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
-        {
-          nombre: 'Olga Constanza Bermúdez Jaimes',
-          cargo: 'Responsable de línea de producción Huila',
-          centro: 'Dirección General',
-        },
       ],
     },
     {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Joinner Enrique Osorio Martínez',
+          nombre: 'Paola Andrea Tello Zambrano',
           cargo: 'Experto temático',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Paola Alexandra Moya',
+          nombre: 'Paula Marcela Vidal Quintero ',
           cargo: 'Evaluadora instruccional',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
@@ -581,7 +576,7 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Jorge David Barbosa Losada',
+          nombre: 'Fredy Fabian Ortiz Segura ',
           cargo: 'Diseñador de contenidos digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
@@ -633,12 +628,7 @@ export default {
     {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
-        {
-          nombre: 'Ricardo Oliveros Zambrano ',
-          cargo: 'Validador de recursos educativos digitales',
-          centro:
-            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
-        },
+
         {
           nombre: 'Aixa Natalia Sendoya Fernández',
           cargo: 'Validador de recursos educativos digitales',
@@ -646,13 +636,19 @@ export default {
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Daniel Ricardo Mutis Gómez',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          nombre: 'Ricardo Oliveros Zambrano ',
+          cargo: 'Validador de recursos educativos digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
           nombre: 'Anyerson Wilfredo Pizo Ossa',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Daniel Ricardo Mutis Gómez',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',

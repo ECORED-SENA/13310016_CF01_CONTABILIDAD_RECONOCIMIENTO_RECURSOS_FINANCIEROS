@@ -923,7 +923,7 @@
           .row.justify-content-center.align-items-center.mb-0
             .col-xl.mb-4.mb-lg-0
               .caja-1.color-4.ajuste-7(data-aos="fade-right")
-                p La interpretación del caso es la siguiente:
+                
                 p.mb-0 #[b Interpretación del caso:] la operación debe registrarse separando el gasto, el IVA, la retención y el valor neto por pagar. El cálculo y la verificación previa de estos valores evitan errores contables y tributarios. Aunque el #[i software] facilita el proceso, la calidad del registro depende de la correcta clasificación de las cuentas, la revisión de los soportes y la validación de los datos.
             .col-xl-auto.col-md-9(data-aos="fade-left")
               figure

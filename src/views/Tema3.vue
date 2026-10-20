@@ -658,7 +658,7 @@
           .row.justify-content-center.align-items-center.mb-0
             .col-xl.mb-4.mb-lg-0
               .caja-1(data-aos="fade-right").mb-3
-                p La interpretación es la siguiente:
+                
                 p #[b Interpretación del ejemplo:] Cada operación debe analizarse según su naturaleza económica. Una compra a crédito genera un activo y una obligación; una venta reconoce el ingreso, los impuestos y el costo correspondiente; y un préstamo aumenta los recursos y los pasivos, pero no constituye un ingreso.
                 p.mb-0 El computador se reconoce como activo porque será utilizado durante varios periodos. Posteriormente, su costo se distribuye mediante la depreciación, conforme a la vida útil y la política contable.
               p.mb-0 El reconocimiento y la medición permiten registrar cada operación según su naturaleza y efecto contable.

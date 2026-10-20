@@ -894,7 +894,7 @@
           .row.justify-content-center.align-items-center.mb-0
             .col-xl.mb-4.mb-lg-0
               .caja-5.ajuste-2(data-aos="fade-right")
-                h5 La interpretación de este ejemplo es la siguiente:
+                
                 p.mb-0 #[b Interpretación del ejemplo:] cada operación exige un documento acorde con su naturaleza. Por ello, antes del registro contable se debe identificar el hecho económico, seleccionar el soporte, clasificarlo y comprobar que contiene la información necesaria.
             .col-xl-auto.col-md-9.mb-4.mb-lg-0(data-aos="zoom-in")
               figure
